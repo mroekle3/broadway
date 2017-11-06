@@ -15,6 +15,8 @@ a {
 .top,
 top a {
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 h2 {
   font-family: Helvetica;
@@ -36,6 +38,8 @@ p {
   font-weight: bold;
   color: white;
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .footer {
   font-family: Helvetica;
